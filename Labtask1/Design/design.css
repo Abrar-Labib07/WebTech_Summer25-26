@@ -1,0 +1,36 @@
+input[type="submit"]{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+input[type="reset"]
+{
+    background-color: lightgray;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+      margin: 20px;
+    text-align: center;
+  
+}
+legend{
+    padding: 5px;
+    background-color: rgb(10, 4, 125);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+*{
+    box-sizing: border-box;
+    border-radius: 5px;
+    
+}
+fieldset{
+    background-color: rgb(199, 199, 199);
+    padding: 20px;
+    border-radius: 5px;
+}
+label{
+    font-weight: bold;
+}
