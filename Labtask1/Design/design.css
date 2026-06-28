@@ -3,7 +3,9 @@ input[type="submit"]{
     color: white;
     padding: 10px;
     border-radius: 5px;
+    
     text-align: center;
+    margin: 20px auto
 }
 input[type="reset"]
 {
@@ -34,3 +36,9 @@ fieldset{
 label{
     font-weight: bold;
 }
+form   {
+    margin:  auto;
+    height: 500px;
+    width: 600px;
+}
+
